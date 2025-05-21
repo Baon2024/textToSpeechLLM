@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+## Text to speech LLM question-and-response
+
+just a basic (very basic frontend) send and recieve user input to llm (free cohere), but with the response as audio rather than text.
+
 ## Getting Started
 
 First, run the development server:
